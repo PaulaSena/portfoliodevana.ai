@@ -1,0 +1,9 @@
+Terminal integrado
+core/
+----- npm init -y
+|-- src/ 
+-------- index.ts
+|-- |---
+prettierrc
+
+
